@@ -1,6 +1,6 @@
 // Programmer: @NabiKAZ (https://twitter.com/NabiKAZ)
 // Hamster Telegram game automatic clicker!
-// First, run the game on the computer by the method I said here: https://gist.github.com/NabiKAZ/10ab0c25c0703d5d3f5b9b4acd500c66
+// First, run the game on the computer by the method I said here: https://github.com/NabiKAZ/HamsterKombat-Scripts?tab=readme-ov-file#1-run-on-computer
 // Then copy and paste the following code in your browser's console tab (press F12). The magic will be started!
 // To stop, write this: "clearInterval(i);"
 // Caution: You are responsible for possible risks such as banning.
