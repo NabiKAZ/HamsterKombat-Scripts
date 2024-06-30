@@ -19,14 +19,16 @@ Hamster Telegram game automatic clicker! \
 First, run the game on the computer as described in the previous step. \
 Then copy and paste this code in your browser's console tab (press F12). \
 The magic will be started! \
-Note: To stop, write this: `clearInterval(i);`
+Note: To stop, write this: `clearInterval(i);` \
+Video: [https://www.youtube.com/watch?v=eMbv4owPTwg](https://www.youtube.com/watch?v=eMbv4owPTwg)
 
 ## 3. Run on the desktop version
 Script file: `hamsterkombat_desktop.js` \
 First, you need to activate the following option in Telegram beta: \
 `Settings > Advanced > Experimental settings > Enable webview inspecting` \
 Then you open Hamster and right-click and click `Inspect`. \
-Copy and paste this script in the `Console` tab.
+Copy and paste this script in the `Console` tab. \
+Video: [https://www.youtube.com/watch?v=Z5QHDgc8IxA](https://www.youtube.com/watch?v=Z5QHDgc8IxA)
 
 ## 4. Analysis of the best cards
 Soon...
