@@ -21,7 +21,14 @@ Then copy and paste this code in your browser's console tab (press F12). \
 The magic will be started! \
 Note: To stop, write this: `clearInterval(i);`
 
-## 3. Analysis of the best cards
+## 3. Run on the desktop version
+Script file: `hamsterkombat_desktop.js` \
+First, you need to activate the following option in Telegram beta: \
+`Settings > Advanced > Experimental settings > Enable webview inspecting` \
+Then you open Hamster and right-click and click `Inspect`. \
+Copy and paste this script in the `Console` tab.
+
+## 4. Analysis of the best cards
 Soon...
 
 ## Donation
