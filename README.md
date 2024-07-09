@@ -40,6 +40,7 @@ Find the `upgrades-for-buy` request. (If it doesn't exist, refresh the page) \
 Go to the `Response` tab and copy everything. \
 Open this script and paste it in the exact first line in front of `var upgrades = ` \
 Now run the script in the `console` tab of the `developer option`.
+Video: [https://www.youtube.com/watch?v=8xmQaotGSRo](https://www.youtube.com/watch?v=8xmQaotGSRo)
 ![demo-best-cards-hamster](https://github.com/NabiKAZ/HamsterKombat-Scripts/assets/246721/d8d24321-e57d-47fe-ace4-20bc5903b4c3)
 
 ## Donation
