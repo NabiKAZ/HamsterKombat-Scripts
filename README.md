@@ -33,10 +33,10 @@ Copy and paste this script in the `Console` tab.
 ## 4. Analysis of the best cards
 Script file: `hamsterkombat_bestcard.js` \
 This script finds the best hamster cards that are more economical with the Return on investment (ROI) pattern and a simple formula. The ROI column refers to the number of hours that the cost will return to you. The lower this number is, the better. \
-First, run the game on the computer as [described](https://github.com/nabikaz/hamsterkombat-scripts?tab=readme-ov-file#1-run-on-computer) earlier. \
+First, run the game on the computer as [described](https://github.com/NabiKAZ/HamsterKombat-Scripts?tab=readme-ov-file#1-run-on-computer) earlier. \
 Open `Developer Options` (press `F12`). \
 Go to the `Network` tab. \
-Find the `buy-upgrade` request. (If it doesn't exist, refresh the page) \
+Find the `upgrades-for-buy` request. (If it doesn't exist, refresh the page) \
 Go to the `Response` tab and copy everything. \
 Open this script and paste it in the exact first line in front of `var upgrades = ` \
 Now run the script in the `console` tab of the `developer option`.
